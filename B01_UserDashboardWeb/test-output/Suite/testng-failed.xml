@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="JobDone_Functionlity(failed)">
+    <classes>
+      <class name="testcases.A3_UpdateStatus_option3rdn4th">
+        <methods>
+          <include name="teardown"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- testcases.A3_UpdateStatus_option3rdn4th -->
+      <class name="testcases.A3_UpdateStatus_option1">
+        <methods>
+          <include name="teardown"/>
+          <include name="close"/>
+          <include name="beforesuite"/>
+          <include name="aftersuite"/>
+        </methods>
+      </class> <!-- testcases.A3_UpdateStatus_option1 -->
+      <class name="testcases.A3_UpdateStatus_option6thn7th">
+        <methods>
+          <include name="teardown"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- testcases.A3_UpdateStatus_option6thn7th -->
+      <class name="testcases.A3_UpdateStatus_option2">
+        <methods>
+          <include name="teardown"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- testcases.A3_UpdateStatus_option2 -->
+      <class name="testcases.A1_Hired_option2">
+        <methods>
+          <include name="teardown"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- testcases.A1_Hired_option2 -->
+      <class name="testcases.A1_Hired_option3">
+        <methods>
+          <include name="teardown"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- testcases.A1_Hired_option3 -->
+      <class name="testcases.A2_Jobdone_option2">
+        <methods>
+          <include name="teardown"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- testcases.A2_Jobdone_option2 -->
+      <class name="testcases.A2_Jobdone_option4">
+        <methods>
+          <include name="teardown"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- testcases.A2_Jobdone_option4 -->
+      <class name="testcases.A2_Jobdone_option1">
+        <methods>
+          <include name="teardown"/>
+          <include name="close"/>
+          <include name="JobDone1"/>
+        </methods>
+      </class> <!-- testcases.A2_Jobdone_option1 -->
+      <class name="testcases.A3_UpdateStatus_option5">
+        <methods>
+          <include name="teardown"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- testcases.A3_UpdateStatus_option5 -->
+      <class name="testcases.A1_Hired_option1_SA">
+        <methods>
+          <include name="teardown"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- testcases.A1_Hired_option1_SA -->
+      <class name="testcases.A2_Jobdone_option3">
+        <methods>
+          <include name="close"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- testcases.A2_Jobdone_option3 -->
+    </classes>
+  </test> <!-- JobDone_Functionlity(failed) -->
+</suite> <!-- Failed suite [Suite] -->
