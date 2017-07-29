@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-  <test name="Hired_Functionlity">
+<test name="Hired_Functionlity">
     <classes>
       <class name="testcases.A1_Hired_option1_SA"/>
       <class name="testcases.A1_Hired_option2"/> 
@@ -24,5 +24,5 @@
       <class name="testcases.A3_UpdateStatus_option5"/>
       <class name="testcases.A3_UpdateStatus_option6thn7th"/> 
     </classes>
-  </test> 
-</suite> <!-- Suite -->
+  </test>  
+  </suite> <!-- Suite -->
